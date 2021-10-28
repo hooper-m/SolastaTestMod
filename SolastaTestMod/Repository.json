@@ -1,0 +1,10 @@
+{
+	"Releases":
+	[
+		{
+			"Id": "SolastaTestMod",
+			"Version": "0.0.1",
+			"DownloadUrl": "https://github.com/hooper-m/SolastaTestMod/releases/download/V0.0.1/SolastaTestMod.zip"
+		}
+	]
+}

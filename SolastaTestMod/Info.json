@@ -1,0 +1,13 @@
+{
+	"Id": "SolastaTestMod",
+	"DisplayName": "SolastaTestMod",
+	"Author": "hooper-m",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.4",
+	"Requirements": [ "SolastaModApi" ],
+	"LoadAfter": [ "SolastaModApi" ],
+	"AssemblyName": "SolastaTestMod.dll",
+	"EntryMethod": "SolastaTestMod.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/hooper-m/SolastaTestMod/main/SolastaTestMod/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}
