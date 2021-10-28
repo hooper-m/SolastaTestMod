@@ -52,6 +52,7 @@ namespace SolastaTestMod
         internal static void OnGameReady()
         {
             // SAFE TO INIT YOUR MOD HERE
+            TacticianFighterSubclass.BuildAndAddSubclass();
         }
     }
 }

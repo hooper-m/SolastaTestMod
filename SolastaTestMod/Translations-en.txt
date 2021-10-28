@@ -1,2 +1,2 @@
-SolastaTestMod/&FancySkeletonTitle	Fancy Skeleton
-SolastaTestMod/&FancySkeletonDescription	I'm a fancy skeleton
+Subclass/&TacticianFighterSubclassTitle	Tactician
+Subclass/&TacticianFighterSubclassDescription	Tacticians are masters of battle, using their shrewd tactics to outmaneuver their foes.
