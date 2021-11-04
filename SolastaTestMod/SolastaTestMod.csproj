@@ -63,6 +63,9 @@
 			<HintPath>$(SolutionDir)lib\Assembly-CSharp_public.dll</HintPath>
 			<Private>false</Private>
 		</Reference>
+		<Reference Include="SolastaModHelpers">
+		  <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Slasta_COTM\Mods\SolastaModHelpers\SolastaModHelpers.dll</HintPath>
+		</Reference>
 		<Reference Include="Unity.Addressables">
 			<HintPath>$([System.IO.Path]::Combine($(SolastaInstallDir), 'Solasta_Data\Managed\Unity.Addressables.dll'))</HintPath>
 			<Private>false</Private>

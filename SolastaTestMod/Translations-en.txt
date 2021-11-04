@@ -1,2 +1,11 @@
 Subclass/&TacticianFighterSubclassTitle	Tactician
 Subclass/&TacticianFighterSubclassDescription	Tacticians are masters of battle, using their shrewd tactics to outmaneuver their foes.
+Feature/&AccurateStrikeTacticFeatureTitle	Accurate Strike
+Feature/&AccurateStrikeTacticFeatureDescription	Using this tactic allows you to roll your weapon dice and add it to your attack roll.
+Feature/&TacticianFighterSubclassAccurateStrikeUsePowerTitle	Use the Accurate Strike tactic.
+Feature/&TacticianFighterSubclassAccurateStrikeUsePowerDescription	Use a tactic to get your weapon die bonus on one attack.
+Reaction/&TacticanFighterSubclassAccurateStrikePowerReactDescription	You are about to miss an attack. You can use a tactic to add your weapon die to the resulting roll.
+Feature/&CounterattackTacticTitle	Counterattack
+Feature/&CounterattackTacticDescription	buh
+Feature/&BlankTestFeatureTitle	Blank Test Feature
+Feature/&BlankTestFeatureDescription	This is not the greatest feature in the world. This is a tribute.
